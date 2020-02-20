@@ -120,12 +120,12 @@ Actual time needed to complete: 1 hour 15 minutes
 
 
 
-Number and name of feature: 
+Number and name of feature: 9 DATABASE and SQL
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 5 Hours
 
-Start time: 
+Start time: 9:30
 
-Finish time: 
+Finish time: 11:50
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours 20 minutes
